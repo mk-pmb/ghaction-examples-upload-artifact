@@ -1,0 +1,21 @@
+{ "name": "ghaction-examples-upload-artifact",
+  "version": "0.0.1",
+  "description": "Example of how to use GitHub Actions to upload artifacts",
+  "keywords": [],
+
+  "author": "M.K. (https://github.com/mk-pmb)",
+  "homepage": "https://github.com/mk-pmb/ghaction-examples-upload-artifact/#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mk-pmb/ghaction-examples-upload-artifact.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mk-pmb/ghaction-examples-upload-artifact/issues"
+  },
+  "contributors": [],
+
+  "private": true, "license": "ISC",
+
+
+  "npm vs. BOM = Unexpected token": "-*- coding: UTF-8 -*-"
+}
